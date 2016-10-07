@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=TensorFlow Demo
+Exec=tensorflow-demo.label-image
+Type=Application
